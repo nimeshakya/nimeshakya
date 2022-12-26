@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nimeshakya
 - 👀 I’m interested in Web & Game Development
-- 🌱 I’m currently learning Frontend Libraries & Unreal Engine 5
+- 🌱 I’m currently learning Backend Development (NodeJS, ExpressJS) & Unity Game Engine
 
 <!---
 nimeshakya/nimeshakya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
