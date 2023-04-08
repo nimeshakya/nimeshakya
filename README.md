@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web & Game Development
 - 🌱 I’m currently learning Backend Development (NodeJS, ExpressJS) & Unity Game Engine
 
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername &layout=compact />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=nimeshakya &layout=compact />
 
 <!---
 nimeshakya/nimeshakya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
