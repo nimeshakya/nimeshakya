@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nimesh Shakya</h1>
 <h3 align="center">A passionate Game and Web Developer from Nepal.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimeshakya" alt="nimeshakya" /></a> </p>
-
 - 📫 How to reach me **nimeshakya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
