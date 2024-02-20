@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimesh Shakya</h1>
-<h3 align="center">A passionate Game and Web Developer from Nepal.</h3>
+<h3 align="center">I like to make games and web sites and sometimes website with games.</h3>
 
 - 📫 How to reach me **nimeshakya@gmail.com**
 
