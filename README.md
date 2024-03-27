@@ -1,3 +1,1 @@
-<h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+👋+there!;I'm+Nimesh+Shakya!)](https://git.io/typing-svg)
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
