@@ -11,13 +11,13 @@
 <p align="center" style="font-family: verdana;">
 <img src="./assets/STUDYING.GIF"/><br>
 I am studying to become an awesome devleoper.<br><br>
-<a href="https://nimeshakya.github.io target="_blank"" target="_blank">
+<a href="https://nimeshakya.github.io" target="_blank">
   <img src="./assets/click_here_003.gif" />
 </a><br>
-<a href="https://nimeshakya.github.io target="_blank"" target="_blank">
+<a href="https://nimeshakya.github.io" target="_blank">
   Check out my portfolio!<br>
 </a>
-<a href="https://nimeshakya.github.io target="_blank"" target="_blank">
+<a href="https://nimeshakya.github.io" target="_blank">
   <img src="./assets/globe.gif"/>
 </a>
 </p>
