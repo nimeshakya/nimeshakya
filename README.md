@@ -23,7 +23,7 @@ I am studying to become an awesome devleoper.<br><br>
 </p>
 
 <p align="center" style="font-family: verdana">
-  Hello there internet people! Welcome to my GitHub profile. You are welcome to look through my repositories. I mostly work to build websites, but I also love to make and play video games. I place all my share-worthy projects here. Also you can contact me if you want to work together in a project.<br><br>
+  Hello there internet people! Welcome to my GitHub profile. You are welcome to look through my repositories. I mostly work to build websites, but I also love to make and play video games. I place all my share-worthy projects here. Also, you can contact me if you want to work together on a project.<br><br>
   <a href="mailto:nimeshakyabtw@gmail.com" ><img src="./assets/email.gif" /></a><br><br>Allright then, see you around!<br>
   <img src="./assets/line-smile.gif" />
 </p>
