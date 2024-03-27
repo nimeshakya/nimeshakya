@@ -11,20 +11,20 @@
 <p align="center" style="font-family: verdana;">
 <img src="./assets/STUDYING.GIF"/><br>
 I am studying to become an awesome devleoper.<br><br>
-<a href="https://nimeshakya.github.io" target="_blank">
+<a href="https://nimeshakya.github.io target="_blank"" target="_blank">
   <img src="./assets/click_here_003.gif" />
 </a><br>
-<a href="https://nimeshakya.github.io" target="_blank">
+<a href="https://nimeshakya.github.io target="_blank"" target="_blank">
   Check out my portfolio!<br>
 </a>
-<a href="https://nimeshakya.github.io" target="_blank">
+<a href="https://nimeshakya.github.io target="_blank"" target="_blank">
   <img src="./assets/globe.gif"/>
 </a>
 </p>
 
 <p align="center" style="font-family: verdana">
   Hello there internet people! Welcome to my GitHub profile. You are welcome to look through my repositories. I mostly work to build websites, but I also love to make and play video games. I place all my share-worthy projects here. Also you can contact me if you want to work together in a project.<br><br>
-  <a href="mailto:nimeshakyabtw@gmail.com" target="_blank"><img src="./assets/email.gif" /></a><br><br>Allright then, see you around!<br>
+  <a href="mailto:nimeshakyabtw@gmail.com" ><img src="./assets/email.gif" /></a><br><br>Allright then, see you around!<br>
   <img src="./assets/line-smile.gif" />
 </p>
 
