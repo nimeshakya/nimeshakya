@@ -11,10 +11,11 @@
 <p align="center" style="font-family: verdana;">
 <img src="./assets/STUDYING.GIF"/><br>
 I am studying to become an awesome devleoper.<br><br>
+<img src="./assets/click_here_003.gif" /><br>
 <a href="https://nimeshakya.github.io" target="_blank">
   Check out my portfolio!<br>
-  <img src="./assets/globe.gif"/>
 </a>
+<img src="./assets/globe.gif"/>
 </p>
 
 <p align="center" style="font-family: verdana">
