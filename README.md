@@ -12,8 +12,6 @@
 <img src="./assets/STUDYING.GIF"/><br>
 I am studying to become an awesome devleoper.<br><br>
 <a href="https://nimeshakya.github.io" target="_blank">
-  <img src="./assets/click_here_003.gif"/>
-  <br>
   Check out my portfolio!<br>
   <img src="./assets/globe.gif"/>
 </a>
