@@ -14,7 +14,7 @@ I am studying to become an awesome devleoper.<br><br>
 <a href="https://nimeshakya.github.io" target="_blank">
   <img src="./assets/click_here_003.gif" />
 </a><br>
-<a href="https://nimeshakya.github.io" target="_blank">
+<a href="https://www.nimeshakya.com.np" target="_blank">
   Check out my portfolio!<br>
 </a>
 <a href="https://nimeshakya.github.io" target="_blank">
